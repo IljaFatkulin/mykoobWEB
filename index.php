@@ -1,5 +1,5 @@
 <?php
-
+    include('php/nav.php');
 ?>
 
 <!DOCTYPE html>
@@ -12,13 +12,6 @@
     <link rel="stylesheet" href="timetable.css">
 </head>
 <body>
-    <nav>
-        <h1 class="logo">LOGO</h1>
-        <a>Timetable</a>
-        <a href="#">Marks</a>
-        <a href="#">Passes</a>
-        <a href="#">Messages</a>
-        <a href="#">Profile</a>
-    </nav>
+    
 </body>
 </html>
