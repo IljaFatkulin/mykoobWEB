@@ -15,11 +15,11 @@
     <nav>
         <ul>
             <li><h1 class="logo">LOGO</h1></li>
-            <li><a class="Timetable" href="#">Timetable</a></li>
-            <li><a class="Marks" href="#">Marks</a></li>
-            <li><a class="Passes" href="#">Passes</a></li>
-            <li><a class="Messages" href="#">Messages</a></li>
-            <li><a class="Profile" href="#">Profile</a></li>
+            <li><a class="timetable" href="#">Timetable</a></li>
+            <li><a class="marks" href="#">Marks</a></li>
+            <li><a class="passes" href="#">Passes</a></li>
+            <li><a class="messages" href="#">Messages</a></li>
+            <li><a class="profile" href="#">Profile</a></li>
         </ul>
     </nav>
 </body>
