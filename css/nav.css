@@ -1,0 +1,35 @@
+body {
+    font-family: Lato, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    padding-right: 40px;
+}
+
+li {
+    display: inline-block;
+    padding: 8px;
+    font-size: 20px;
+}
+
+.Profile {
+    padding-left: 1200px;
+}
+
+a:hover {
+    color: #928FFF;
+}
+
+::placeholder {
+    color: DBDBDB;
+}

@@ -1,0 +1,12 @@
+body {
+    background-color: #161616;
+    color: #fff;
+}
+
+.Timetable {
+    color: #1775E1;
+}
+
+.Timetable:hover {
+    color: #1775E1;
+}
