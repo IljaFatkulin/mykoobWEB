@@ -1,0 +1,12 @@
+body {
+    background-color: #161616;
+    color: #fff;
+}
+
+.profile {
+    color: #1775E1;
+}
+
+.profile:hover {
+    color: #1775E1;
+}
